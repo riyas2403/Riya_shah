@@ -1,5 +1,4 @@
-# Riya_shah
-# 👋 Hi, I'm Riya Shah  
+# 👋 Hello, I'm Riya Shah 
 🔹 **AI & Machine Learning Specialist | Web Developer**  
 🔹 Passionate about **Data Science, AI Model Development, and Scalable Web Applications**  
 🔹 Skilled in **Python, Java, ReactJS, SQL, Power BI, and ML Algorithms**  

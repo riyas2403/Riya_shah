@@ -45,12 +45,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riya-shah&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-shah&layout=compact&theme=dark)  
-
----
-
 ## 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riya-shah2a10251b7)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/riya-shah)  
